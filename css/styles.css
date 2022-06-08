@@ -23,7 +23,7 @@ body {
 .nav-link {
   margin: 0 18px;
   font-family: "Montserrat";
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 300;
 }
 
@@ -184,6 +184,10 @@ h2 {
 
 .footer-icon:hover {
   transform: scale(1.2);
+}
+
+.footer-button {
+  margin: auto 10px;
 }
 
 @media (max-width: 990.4px) {
